@@ -1,5 +1,5 @@
 # HW2-Advanced-Search-Sort
-HW2 - Advanced Search&amp;Sort
+HW2 - Advanced Search&amp;Sort Algor (S.6)-040613292 Design And Analysis Of Algorithm
 
 ใช้โค้ดตัวอย่างจากใน Slide สร้างโปรแกรม
 
